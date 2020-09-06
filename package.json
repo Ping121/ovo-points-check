@@ -1,0 +1,17 @@
+{
+  "name": "bypass-captcha",
+  "version": "1.0.0",
+  "description": "Latihan bypass captcha",
+  "main": "index.js",
+  "author": "hanif",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.6.4",
+    "@types/promise-poller": "^1.7.0",
+    "@types/puppeteer": "^3.0.1",
+    "@types/request-promise-native": "^1.0.17",
+    "promise-poller": "^1.9.1",
+    "puppeteer": "^5.2.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
